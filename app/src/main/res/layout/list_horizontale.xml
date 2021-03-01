@@ -10,7 +10,10 @@
         android:layout_marginLeft="@dimen/default_margin"
         android:scaleType="centerCrop"
         android:src="@drawable/trend2"
+
         />
+
+
 
 
 

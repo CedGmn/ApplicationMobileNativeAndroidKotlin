@@ -2,5 +2,8 @@
     <string name="app_name">Mini Cactus</string>
     <string name="title_main_page">Mini Cactus</string>
     <string name="subtitle">Nouveauté :</string>
+    <string name="Nomp_cactus">Nom du cactus :</string>
+    <string name="item_description">Description</string>
+    <string name="nom_list_vertical">Gamme : </string>
 
 </resources>
