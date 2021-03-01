@@ -1,8 +1,8 @@
-package com.example.learn
+package com.example.plantesgrasses
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.example.learn.fragments.HomeFragment
+import com.example.plantesgrasses.fragments.HomeFragment
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

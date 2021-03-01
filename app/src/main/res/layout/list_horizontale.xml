@@ -9,7 +9,7 @@
         android:layout_height="match_parent"
         android:layout_marginLeft="@dimen/default_margin"
         android:scaleType="centerCrop"
-        android:src="@drawable/trend"
+        android:src="@drawable/trend2"
         />
 
 

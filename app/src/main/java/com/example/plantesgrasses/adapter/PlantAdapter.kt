@@ -1,11 +1,11 @@
-package com.example.learn.adapter
+package com.example.plantesgrasses.adapter
 
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import android.widget.ImageView
 import androidx.recyclerview.widget.RecyclerView
-import com.example.learn.R
+import com.example.plantesgrasses.R
 
 class PlantAdapter: RecyclerView.Adapter<PlantAdapter.ViewHolder>() {
 

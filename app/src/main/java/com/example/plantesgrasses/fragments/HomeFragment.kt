@@ -1,4 +1,4 @@
-package com.example.learn.fragments
+package com.example.plantesgrasses.fragments
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -6,8 +6,8 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.Fragment
 import androidx.recyclerview.widget.RecyclerView
-import com.example.learn.R
-import com.example.learn.adapter.PlantAdapter
+import com.example.plantesgrasses.R
+import com.example.plantesgrasses.adapter.PlantAdapter
 
 class HomeFragment : Fragment() {
 

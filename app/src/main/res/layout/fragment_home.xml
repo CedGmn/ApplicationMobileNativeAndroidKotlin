@@ -19,7 +19,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="@dimen/default_margin"
         android:layout_marginLeft="@dimen/default_margin"
-        android:text="Chaton :"
+        android:text="Gamme :"
         style="@style/Base.CardView"
 
         />
